@@ -20,7 +20,7 @@ public class Tank {
     public double getY() {
         return y;
     }
-
+    ///
     public void setY(int y) {
         this.y = y;
     }
