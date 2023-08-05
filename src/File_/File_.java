@@ -97,8 +97,4 @@ public class File_ {
         }
 
     }
-    @Test
-    public  void fileWrite() {
-        FileReader fileReader = new FileReader();
-    }
 }
